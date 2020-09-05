@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+United We Stand. Devided We Fall!
 Use the left arrow to go back!
